@@ -9,4 +9,4 @@ env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
 
 [config]
 domain = "airline"
-num_tasks = 4
+num_tasks = 1
