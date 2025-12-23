@@ -1,0 +1,12 @@
+[green_agent]
+agentbeats_id = "019b4b83-e5e1-7750-981b-a1436164de34"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+
+[[participants]]
+agentbeats_id = "019aef64-98b9-7aa0-a3e5-1c4e7994cf25"
+name = "agent"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", LOG_LEVEL = "INFO" }
+
+[config]
+domain = "airline"
+num_tasks = 4
