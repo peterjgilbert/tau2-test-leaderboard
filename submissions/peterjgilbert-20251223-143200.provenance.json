@@ -1,0 +1,8 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/komyo-ai/agentbeats-tutorial-tau2-evaluator@sha256:157c4d76852a14132b9b0ec542e57a1b713528da7bdc82762e1726ecd774ce63",
+    "agent": "ghcr.io/komyo-ai/agentbeats-tutorial-tau2-agent@sha256:837b4b1cd2e45c7dee4558513ce7704458e208799e253a32add6209191f21111",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2025-12-23T14:32:00Z"
+}
